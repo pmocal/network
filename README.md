@@ -18,10 +18,16 @@ sequence are connected to each other along straight lines, either orthogonally
 
 ## Running Network
 
-You can run Network from your pj2 directory in several ways.
+You can run Network from the command line in several different configurations.
+
 `java Network machine machine` (Your MachinePlayer competes against itself)
-`java Network human random`
-`java Network human human`
-`java Network human machine`
-`java Network machine random`
+
 Every combination of "machine", "human", and "random" works.  It’s particularly amusing to pit two random players against each other. If you put a "-q" switch right after the word "Network", Network will quit immediately when the game ends.
+
+`java Network human random`
+
+`java Network human human`
+
+`java Network human machine`
+
+`java Network machine random`
