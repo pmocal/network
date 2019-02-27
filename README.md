@@ -8,13 +8,11 @@ A two player board game with play for Human vs. Computer or Computer vs. Compute
 
 ## Description
 
-Network is taken from Sid Sackson, "A Gamut of Games," Dover Publications (New York), 1992
+Network is taken from Sid Sackson, "A Gamut of Games," Dover Publications (New York), 1992.
 
-Each player tries to complete a "network" joining its two goal areas.
-A network is a sequence of six or more chips that starts in one of the player’s
-goal areas and terminates in the other.  Each consecutive pair of chips in the
-sequence are connected to each other along straight lines, either orthogonally
-(left, right, up, down) or diagonally.
+Each player tries to complete a "network" joining its two goal areas. A network is a sequence of six or more chips that starts in one of the player’s goal areas and terminates in the other.  Each consecutive pair of chips in the sequence are connected to each other along straight lines, either orthogonally (left, right, up, down) or diagonally.
+
+The GUI and code for `Move.java` and `Player.java` provided through the UC Berkeley CS61B class.
 
 ## Running Network
 
