@@ -1,6 +1,6 @@
 # Network
 
-![screenshot.png](screenshot.png)
+![screenshot.png](screenshot network.png)
 
 ## Summary
 
